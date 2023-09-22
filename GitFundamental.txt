@@ -1,0 +1,10 @@
+O QUE É GITHUB?
+Github é um serviço para gerenciar reposítorios, gratuito e amplamente utilizado.
+Pode ser enviado projetos para o GitHub e disponibilizá-lo para outros devs.
+READ ME: É o arquivo que vai descrever o seu repositório.
+GIT IGNORE: Arquivo para você escolher quais arquivos o git não deve monitorar.
+LICENSE: Arquivo para você inserir uma licença ao seu repositório.
+git init: para iniciar o seu repositório
+git status: para verificar o status do seu repositório
+git commit -m: para enviar o seu arquivo para o Github
+git push -u origin master: para enviar o seu repositório.
