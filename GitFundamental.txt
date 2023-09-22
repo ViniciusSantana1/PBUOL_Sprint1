@@ -10,5 +10,6 @@ git status: para verificar o status do seu repositório
 git add: para adicionar aquivos ao projeto, pode adcionar um arquivo específico ou diversos de uma unica vez
 git commit -m: para enviar o seu arquivo para o Github
 git push -u origin master: para enviar o seu repositório.
-git pull: trazer seu repositorio remoto para o seu repositorio local
-
+git pull: recebe alterações feitos no repositório remoto para a sua máquina
+git clone: usado para clonar o repositório que está no github e trazer para a sua máquina.
+git rm: remove um arquivo do seu repositorio através do comando git rm <filename>
