@@ -13,3 +13,6 @@ git push -u origin master: para enviar o seu repositório.
 git pull: recebe alterações feitos no repositório remoto para a sua máquina
 git clone: usado para clonar o repositório que está no github e trazer para a sua máquina.
 git rm: remove um arquivo do seu repositorio através do comando git rm <filename>
+git log: Comando utilizado para verificar alterações no repositório
+git mv: usado para mudar o nome do arquivo ou para mover o arquivo para outro local
+        ex: git mv GitFundamental.txt gitfundamental.txt
