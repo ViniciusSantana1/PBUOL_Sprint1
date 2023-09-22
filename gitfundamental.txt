@@ -15,4 +15,9 @@ git clone: usado para clonar o repositório que está no github e trazer para a 
 git rm: remove um arquivo do seu repositorio através do comando git rm <filename>
 git log: Comando utilizado para verificar alterações no repositório
 git mv: usado para mudar o nome do arquivo ou para mover o arquivo para outro local
-        ex: git mv GitFundamental.txt gitfundamental.txt
+    ex: git mv GitFundamental.txt gitfundamental.txt
+git checkout: usado para desfazer alterações em um arquivo
+    ex: git checkout gitfundamental.txt
+git ignore: usado para fazer com que o git ignore um arquivo do projeto
+    OBS: para usar, você cria um arquivo .gitignore e adiciona o nome do arquivo que deseja ignorar no seu projeto.
+git reset: Comando utilizado para resetar todas as mudanças feitas. Geralmente usado com a flag --hard
