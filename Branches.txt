@@ -1,0 +1,5 @@
+O QUE SÃO BRANCHES?
+Branch é a forma como o GIT separa as versões do projeto. Quando um projeto é iniciado, ele se inicia no branch master.
+Geralmente cada nova feature é feita em um branch separado. Após a finalização das alterações, os branches são unidos para ter o código fonte final.
+git branch: para visualizar os branches disponíveis 
+git branch <nome>: para criar um branch novo
